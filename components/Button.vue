@@ -1,11 +1,11 @@
 <script>
 export default {
-    props: {
-        color: {
-            type: String,
-            default: 'primary'
-        },
-    }
+  props: {
+    color: {
+      type: String,
+      default: 'primary'
+    },
+  }
 }
 </script>
 
