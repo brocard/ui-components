@@ -1,14 +1,10 @@
 {
-  "name": "@brocard/ui-components",
+  "name": "@brocardjr/ui-components",
   "version": "0.0.1",
   "description": "A Nuxt UI Library by @Yuz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/brocard/ui-components.git"
   },
   "keywords": [
     "Nuxt",
@@ -19,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/brocard/ui-components/issues"
   },
-  "homepage": "https://github.com/brocard/ui-components#readme"
+  "homepage": "https://github.com/brocard/ui-components#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brocard/ui-components.git"
+  }
 }
